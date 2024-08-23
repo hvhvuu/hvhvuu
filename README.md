@@ -8,13 +8,6 @@ I'm **Ishaan Venkat**, a sophomore at the **University of Colorado - Boulder**, 
 
 ---
 
-### 📫 How to Reach Me
-
-- LinkedIn: [Ishaan Venkat](https://www.linkedin.com/in/ishaan-venkat/)
-- Email: [ishaanv101@gmail.com](mailto:ishaanv101@gmail.com)
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -40,6 +33,9 @@ I'm **Ishaan Venkat**, a sophomore at the **University of Colorado - Boulder**, 
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ishaan-venkat/).
+### 📫 How to Reach Me
+
+- LinkedIn: [Ishaan Venkat](https://www.linkedin.com/in/ishaan-venkat/)
+- Email: [ishaanv101@gmail.com](mailto:ishaanv101@gmail.com)
 
 ---
