@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Ishaan Venkat and I am a sophomore at the University of Colorado - Boulder studying Aerospace Engineering and Computer Science.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hvhvuu&label=Profile%20views&color=0e75b6&style=plastic"/></p>
+<hr/>
+
+## Github Stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hvhvuu&theme=algolia"/></p><br/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvhvuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact")/></p>
+
 <!--
 **hvhvuu/hvhvuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
