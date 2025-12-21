@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Ishaan Venkat**, a sophomore at the **University of Colorado - Boulder**, majoring in **Aerospace Engineering** and **Computer Science**.
+I'm **Ishaan Venkat**, a junior at the **University of Colorado - Boulder**, majoring in **Aerospace Engineering** and **Computer Science**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hvhvuu&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views"/>
